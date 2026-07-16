@@ -1,16 +1,17 @@
-# 📷 Image Classification App (CIFAR-10)
+# 📷 Image Classification App 
 
 An **AI-powered web application** built with **Streamlit** that classifies images into one of the **10 CIFAR-10 categories** using a **Convolutional Neural Network (CNN)** trained on the **CIFAR-10 dataset**.  
 
 ---
 
 ## 🚀 Live Demo  
-🔗 [Live App on Streamlit](https://imageclassificationmodel07.streamlit.app/)
+🔗   [streamlit.com](https://image-classification-model-khue86epdf9uxnau8pwq7s.streamlit.app/)
 
 ---
 
 ## 🚀 Video Demo
-[Video Demo ](https://github.com/user-attachments/assets/264ab9a8-82d8-4ec8-9136-b8b5f3614b7d)
+[Screencast from 2026-07-17 03-19-39.webm](https://github.com/user-attachments/assets/a7a489fc-7306-405f-96f6-b7ae399547b6)
+
 
 ---
 
@@ -53,33 +54,11 @@ The model is trained on the **CIFAR-10 dataset**:
 
 ---
 
-## 📸 Screenshots  
-### 🏠 Home Page  
-<img width="1889" height="822" alt="image" src="https://github.com/user-attachments/assets/1bff1e22-d63f-4769-9c72-99e05983fba1" />
-
-### 📷 Image Upload & Prediction  
-<img width="1864" height="803" alt="image" src="https://github.com/user-attachments/assets/2ac87208-2392-4e4b-9248-c6055787113f" />
-
-### 📷 Image Upload & Prediction
-<img width="1878" height="756" alt="image" src="https://github.com/user-attachments/assets/8cbbacbb-31b7-4a18-9fd2-0a01fe387da3" />
-
-### 📷 Image Upload & Prediction
-<img width="1885" height="862" alt="image" src="https://github.com/user-attachments/assets/8b61b530-33d5-4a3f-aec9-e2c8739e8f52" />
-
-### 📷 Image Upload & Prediction
-<img width="1861" height="778" alt="image" src="https://github.com/user-attachments/assets/646b98c3-4a8a-46e3-8365-a5ebd3c57a99" />
-
-### 📷 Image Upload & Prediction
-<img width="1797" height="812" alt="image" src="https://github.com/user-attachments/assets/d3244136-1124-44d3-bfa4-71338e920ae2" />
-
----
-
 ## 👨‍💻 Author  
-**Mirza Yasir Abdullah Baig**  
+**Nadeem Gohar**  
 
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+- 💼 [LinkedIn](www.linkedin.com/in/nadeem-gohar-0708382b0)  
+- 💻 [GitHub](https://github.com/Nadeemgohar)  
 
 ---
 
